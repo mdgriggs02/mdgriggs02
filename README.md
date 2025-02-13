@@ -1,10 +1,9 @@
-Hi! My name is Matthew Griggs. I'm a current student at the University of Arkansas, getting a degree in Information Systems: Blockchain Systems,
-and will start my graduate degree in 2025 at Southern Methodist University, in Computer Science: Artificial Intelligence!
+I'm passionate about AI-driven automation, workflow optimization, and data-driven problem-solving. My work focuses on integrating AI models, building scalable automation workflows, and streamlining business processes using machine learning and AI tools.
 
-I'm interested in Artificial Intelligence, Software Engineering, Machine Learning, and Blockchain technologies.
+🔹 Tech Stack: Python, C#, JavaScript, SQL, TensorFlow, PyTorch, OpenAI API, Zapier, Make
+🔹 Specialties: AI Integration, Workflow Automation, Process Optimization, API Development
+🔹 Projects: AI-powered resume optimization, automated lead qualification, smart contract automation
 
-I'm currently learning machine learning and more advanced artificial intelligence concepts. 
+Always exploring new ways to leverage AI & automation to maximize efficiency. Check out my repositories and let’s build something impactful!
 
-Contact me @: mdgriggs02@gmail.com
-
-Fun fact: I played collegiate golf for 3 years!
+Let’s connect: https://www.linkedin.com/in/mdgriggs02/| https://mdgriggs02.github.io/ | mdgriggs02@gmail.com
