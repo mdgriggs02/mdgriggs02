@@ -1,6 +1,6 @@
-I'm passionate about AI-driven automation, workflow optimization, and data-driven problem-solving. My work focuses on integrating AI models, building scalable automation workflows, and streamlining business processes using machine learning and AI tools.
+Passionate about transforming AI research into scalable blockchain security solutions. Strong foundation in NLP, prompt engineering, Python development, and blockchain protocols.
 
-🔹 Tech Stack: Python, C#, JavaScript, SQL, TensorFlow, PyTorch, OpenAI API, Zapier, Make
+🔹 Tech Stack: Python, C, C#, JavaScript, Solidity, SQL, 
 🔹 Specialties: AI Integration, Workflow Automation, Process Optimization, API Development
 🔹 Projects: AI-powered resume optimization, automated lead qualification, smart contract automation
 
